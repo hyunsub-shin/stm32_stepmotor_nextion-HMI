@@ -4,6 +4,7 @@ MCU : STM32F103RG
 - TIM3 : PWM(Accel, Decel)
 
 Driver : DRV8880
+
 Motor : 21H4AB-05-049
 - 1.8 degree/step
 - 360/1.8 = 200 step
