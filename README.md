@@ -2,6 +2,7 @@ MCU : STM32F103RG
 - UART1 : debug
 - UART2 : Nection LCD
 - TIM3 : PWM(Accel, Decel)
+
 Driver : DRV8880
 Motor : 21H4AB-05-049
 - 1.8 degree/step
