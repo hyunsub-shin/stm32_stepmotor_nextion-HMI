@@ -1,4 +1,5 @@
 MCU : STM32F103RG
+- STM32CubeIDE1.6.0
 - UART1 : debug
 - UART2 : Nection LCD
 - TIM3 : PWM(Accel, Decel)
